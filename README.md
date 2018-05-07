@@ -1,3 +1,3 @@
 # Portfolio-website
 =======================
-- [Website] (https://pujithmarodia.github.io/Portfoio-website/Website.html)
+- [Website] (https://pujithmarodia.github.io/Portfolio-website/Website.html)
