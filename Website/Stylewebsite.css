@@ -378,7 +378,7 @@ li > a {
     }
     
     .portfolio p {
-          font-size: 1.3em;
+          font-size: 1.4em;
               
     }
     
@@ -386,6 +386,7 @@ li > a {
         
         margin-left: -65px;
         margin-right: -120px;
+        padding-right: 300px;
 
     }
     
@@ -417,7 +418,7 @@ li > a {
     }
     
     .places p {
-          font-size: 1.3em;
+          font-size: 1.4em;
               
     }
     
@@ -425,6 +426,7 @@ li > a {
         
         margin-left: -65px;
         margin-right: -120px;
+        padding-right: 300px;
         
     }
     
@@ -450,11 +452,11 @@ li > a {
     }
 
     .aboutme { 
-        font-size: 1.6em;
+        font-size: 1.7em;
         padding: 0;
-        line-height: 34px;
+        line-height: 35px;
         margin: 0;
-        padding: 60px 120px 50px 120px;
+        padding: 60px 145px 50px 145px;
         margin-bottom: 25px;
         
         
@@ -468,7 +470,7 @@ li > a {
     }
     
     .photo {
-        width: 28%;
+        width: 25%;
     }
     
     .getintouch {
@@ -476,7 +478,7 @@ li > a {
         padding: 0;
         font-size: 2.2em;
         padding: 0px 200px;
-        margin-bottom: 40px;
+        margin-bottom: 60px;
     }
     
     .social {
@@ -491,8 +493,8 @@ li > a {
     border-radius: 200px;
     width: 65px;
     padding: .8em;
-    margin-left: 8px;
-    margin-right: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
     text-decoration: none;    
         
         
