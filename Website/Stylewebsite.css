@@ -41,7 +41,7 @@ body
     font-size: 2.6em;
     margin-top: 40px;
     margin-bottom: 40px;
-    padding: 113px 350px 20px 350px;
+    padding: 113px 280px 20px 280px;
 
 }
 
@@ -553,6 +553,7 @@ li > a {
         width: 130px;
         padding: .5em;
         font-size: 1.2em;
+        margin-bottom: -50px;
         
           
     }
