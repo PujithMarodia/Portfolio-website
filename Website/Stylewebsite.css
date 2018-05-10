@@ -54,7 +54,7 @@ body
     padding: .5em;
     font-size: 1.3em;
     margin:auto;
-    margin-bottom: 0px;
+    margin-bottom: 140px;
     display: block;
     text-decoration: none;
 }
@@ -224,16 +224,6 @@ li > a {
     padding-top: 50px;
     padding-bottom: 0px;
     margin-right: 230px;
-    
-}
-
-.page1 { 
-    min-height: 84vh;
-    
-}
-
-.page4 {
-    min-height: 100vh;
     
 }
 
