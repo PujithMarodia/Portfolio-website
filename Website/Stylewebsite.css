@@ -329,7 +329,7 @@ li > a {
     .intro {
         
         font-size: 2.5em;
-        padding: 260px 300px 25px 300px;
+        padding: 240px 300px 25px 300px;
         line-height: 30px;    
     }
     
@@ -364,7 +364,7 @@ li > a {
         width: 150px;
         padding: .em;
         font-size: 1.3em;
-        margin-bottom: 230px;
+        margin-bottom: 240px;
         
         
           
@@ -378,7 +378,7 @@ li > a {
     }
     
     .portfolio p {
-          font-size: 1.2em;
+          font-size: 1.3em;
               
     }
     
@@ -399,7 +399,7 @@ li > a {
     }
     
     .phone {
-        width: 38%;
+        width: 28%;
         padding: 0;
         margin: 0;
         margin-right: 40;
@@ -417,7 +417,7 @@ li > a {
     }
     
     .places p {
-          font-size: 1.2em;
+          font-size: 1.3em;
               
     }
     
@@ -438,7 +438,7 @@ li > a {
     }
     
     .phone2 {
-         width: 38%;
+         width: 28%;
         padding: 0;
         margin: 0;
         margin-right: 40;
@@ -450,11 +450,12 @@ li > a {
     }
 
     .aboutme { 
-        font-size: 1.5em;
+        font-size: 1.6em;
         padding: 0;
         line-height: 32px;
         margin: 0;
-        padding: 60px 135px 50px 135px;
+        padding: 60px 170px 50px 170px;
+        margin-bottom: 25px;
         
         
     }
