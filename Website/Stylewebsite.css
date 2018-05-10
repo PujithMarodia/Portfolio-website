@@ -344,11 +344,6 @@ li > a {
         line-height: normal;
     }
     
-    .page1 { 
-        min-height: 83vh;
-        
-    }
-    
     li > a {
         margin-left: 9px;
         margin-right: 9px;
@@ -369,6 +364,7 @@ li > a {
         width: 150px;
         padding: .em;
         font-size: 1.3em;
+        
         
           
     }
